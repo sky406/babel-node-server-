@@ -1,0 +1,21 @@
+{
+  "name": "21-apr-22-node",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo\n test?",
+    "start": "nodemon --exec @babel-node server.js"
+  },
+  "version": "1.0.0",
+  "main": "first.module.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
