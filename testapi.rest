@@ -1,1 +1,5 @@
 GET  http://localhost:4400/photos
+
+###
+
+GET  httt://localhost:4400/photos/17
